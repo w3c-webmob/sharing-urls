@@ -1,25 +1,24 @@
-# Sharing 
-
-Adding data for http://wiki.whatwg.org/wiki/Sharing
+# Sharing URLs on the Web
 
 ## Problem overview 
 
 ## "Nascar bar" problem 
 
-## Sharing on Android 
+## Understanding sharing through maps 
 
-### Spotify
+* MacOS maps
+* ios maps
+* android maps
 
-### Firefox 
+### MacOS maps
 
-### Opera 
+### iOS maps
 
-## Sharing for iOS 
+### Android maps
 
+## Discussion
+* ... 
 
-## Sharing on MacOS 
-
-### Maps.app 
-
-
-
+## Requirements
+* 
+The requirements go to inform: http://wiki.whatwg.org/wiki/Sharing
